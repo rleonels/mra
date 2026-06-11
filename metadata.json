@@ -1,0 +1,6 @@
+{
+  "name": "MR Assessoria e Projetos",
+  "description": "Página corporativa moderna e sofisticada da MR Assessoria e Projetos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
